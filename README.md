@@ -1,8 +1,6 @@
 # My dcml repository
 
-content
-
-content
+dcml repository from DCML course 2024-2025 university of florence
 
 ## subtitle
 
